@@ -1,2 +1,2 @@
 # Quiz_App
-The basic quiz app using react
+The basic quiz app using react based
